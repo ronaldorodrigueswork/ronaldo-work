@@ -1,3 +1,2 @@
-## 📂 Meu Repositório de Projetos
-
-Repositório para armazenar códigos e projetos.
+## 📂 My Projects Repository
+Repository for storing codes and projects.
